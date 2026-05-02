@@ -98,7 +98,7 @@ Two machine learning models were trained and compared:
 titanic-survival-classification/
 ├── data/
 │   ├── raw/
-│   │   └── Titanic_Dataset.csv
+│   │   └── Titanic-Dataset.csv
 │   └── processed/
 ├── notebooks/
 │   └── model.ipynb
